@@ -1,8 +1,15 @@
-<p align="center">
-  <img src="assets/Smart_Recipe_Hub_Logo.png" alt="Smart Recipe Hub Logo" width="180">
-</p>
+<table>
+<tr>
+<td width="80">
+<img src="assets/Smart_Recipe_Hub_Logo.png" width="70">
+</td>
+<td>
 
-# Smart Recipe Hub – Agile MVP Projektgit status
+# Smart Recipe Hub – Agile MVP Projekt
+
+</td>
+</tr>
+</table>
 
 ## Projektübersicht
 
