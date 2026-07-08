@@ -1,15 +1,7 @@
-<table>
-<tr>
-<td width="80">
-<img src="assets/Smart_Recipe_Hub_Logo.png" width="70">
-</td>
-<td>
-
-# Smart Recipe Hub – Agile MVP Projekt
-
-</td>
-</tr>
-</table>
+<h1>
+  <img src="assets/Smart_Recipe_Hub_Logo.png" width="70">
+  Smart Recipe Hub – Agile MVP Projekt
+</h1>
 
 ## Projektübersicht
 
