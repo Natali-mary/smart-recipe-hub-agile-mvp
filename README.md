@@ -1,4 +1,8 @@
-# 🍲 Smart Recipe Hub – Agile MVP Projekt
+<p align="center">
+  <img src="assets/Smart_Recipe_Hub_Logo.png" alt="Smart Recipe Hub Logo" width="180">
+</p>
+
+# Smart Recipe Hub – Agile MVP Projekt
 
 ## Projektübersicht
 
