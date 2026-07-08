@@ -1,5 +1,5 @@
 <h1>
-  <img src="assets/Smart_Recipe_Hub_Logo.png" width="70">
+  <img src="assets/Smart_Recipe_Hub_Logo.png" width="55">
   Smart Recipe Hub – Agile MVP Projekt
 </h1>
 
