@@ -233,6 +233,6 @@ GitHub: https://github.com/Natali-mary
 
 ---
 
-⭐ Vielen Dank für Ihr Interesse an diesem Projekt.
+👨‍🍳 Vielen Dank für Ihr Interesse an diesem Projekt.
 
 **Schwerpunkte:** Agiles Projektmanagement · Jira · Prompt Engineering · MVP · Teamarbeit
